@@ -1,5 +1,7 @@
 # Skybox Generator
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joshmcculloch/skybox-generator/blob/main/skybox_colab.ipynb)
+
 ![](examples/pisa.png)
 
 
