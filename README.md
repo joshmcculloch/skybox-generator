@@ -17,9 +17,9 @@ API keys required.
 
 ![](examples/rapaura.png)
 
-## Features
+## Purpose
 
-This tool was designed to allow for automatic skybox generation in for our 
+This tool was designed to allow for automatic skybox generation in our ROS farm simulation.
 
 ## Features
 
